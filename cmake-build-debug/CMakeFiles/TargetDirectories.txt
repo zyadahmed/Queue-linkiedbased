@@ -1,0 +1,3 @@
+/home/ziad/myDisk/c++ my projects/queue-linkiedbased/cmake-build-debug/CMakeFiles/queue_linkiedbased.dir
+/home/ziad/myDisk/c++ my projects/queue-linkiedbased/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ziad/myDisk/c++ my projects/queue-linkiedbased/cmake-build-debug/CMakeFiles/rebuild_cache.dir

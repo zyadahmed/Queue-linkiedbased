@@ -1,0 +1,4 @@
+# ninja log v5
+1	155	1688838447962025700	CMakeFiles/queue_linkiedbased.dir/Queue.cpp.o	d25981565b35cc4a
+1	261	1688838448069215300	CMakeFiles/queue_linkiedbased.dir/main.cpp.o	2f3aca6c93abcc02
+262	312	1688838448118998400	queue_linkiedbased	5d4afe0aedd8385a
